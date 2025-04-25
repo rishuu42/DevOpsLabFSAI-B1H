@@ -2,9 +2,6 @@
 [Rishitt](./500107002/)
 [Jaanhvi](./500101756/)
 [Panshul](./500105400/)
-
-
-
 |No|Experiment|
 |:----|:----|
 |1| CI/CD basics|
