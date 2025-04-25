@@ -11,3 +11,4 @@
 |5| GIT submodules |
 |6| fastapi dockerize |
 |7| GIT fork and opensource contributions|
+|8| Jenkins Installation and Creating First Pipeline|
