@@ -9,3 +9,5 @@ Hello, I am Rishitt Gupta. This is my DevOps Lab File.
 | 5  | GIT Submodules                            | [Lab 5](./Rishitt_Gupta_DevOps_Lab_5.md) |
 | 6  | FastAPI Dockerization                     | [Lab 6](./Rishitt_Gupta_DevOps_Lab_6.md) |
 | 7  | GIT Fork and Open Source Contributions    | [Lab 7](./Rishitt_Gupta_DevOps_Lab_7.md) |
+| 8  | Jenkins Installation and Creating First Pipeline    | [Lab 8](./Rishitt_Gupta_DevOps_Lab_8.md) |
+
